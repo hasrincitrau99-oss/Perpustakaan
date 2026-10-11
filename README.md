@@ -1,5 +1,5 @@
 # Perpustakaan
-A simple console-based (CLI) program developed in the Java programming language to simulate a store cashier system. This program implements two fundamental data structures, Which are Queue and Stack (Transaction History), using a manual Linked List approach.
+This Library Management System handles book data using a custom Single Linked List implementation rather than the built-in java.util.LinkedList. Each connected node stores the book's code, title, and author.
 
 Running Code Output :
 
